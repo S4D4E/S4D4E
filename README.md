@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S4D4E
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to learn any language in coding 
+- 📫 You can reach me in this mail s4d4eencoder@gmail.com
