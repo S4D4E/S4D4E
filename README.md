@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S4D4E
+- 👋 Hi, I’m @S4D4E I am new to coding so if you can help me so if you want to help me it will be with great pleasure
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to learn any language in coding 
